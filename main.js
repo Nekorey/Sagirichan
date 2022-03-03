@@ -22,8 +22,8 @@ abilbotz.logger.level = 'warn'
 abilbotz.version = [2, 4143, 3]
 function _0x3ab7(_0x323e7b,_0xf98192){var _0x19281d=_0x1928();return _0x3ab7=function(_0x3ab720,_0x21b17e){_0x3ab720=_0x3ab720-0x1bc;var _0x34c2b2=_0x19281d[_0x3ab720];return _0x34c2b2;},_0x3ab7(_0x323e7b,_0xf98192);}var _0x3ccdec=_0x3ab7;function _0x1928(){var _0x3e76b1=['31092mOhVGa','60XhHTIy','9209120wvQyih','30KoevrD','4261710hEoKWp','33472oxxMwt','94rPJnNt','551642pNnrId','Opera','3102920jecioL','9197784MfyLqh','3.0','YT ABIL\x20BOTZ','browserDescription'];_0x1928=function(){return _0x3e76b1;};return _0x1928();}(function(_0x2afb88,_0x3230a3){var _0x5142ea=_0x3ab7,_0x5104b1=_0x2afb88();while(!![]){try{var _0x45924c=parseInt(_0x5142ea(0x1bd))/0x1*(parseInt(_0x5142ea(0x1be))/0x2)+-parseInt(_0x5142ea(0x1bc))/0x3+parseInt(_0x5142ea(0x1c6))/0x4*(-parseInt(_0x5142ea(0x1c7))/0x5)+parseInt(_0x5142ea(0x1c9))/0x6*(parseInt(_0x5142ea(0x1bf))/0x7)+parseInt(_0x5142ea(0x1c1))/0x8+parseInt(_0x5142ea(0x1c2))/0x9+-parseInt(_0x5142ea(0x1c8))/0xa;if(_0x45924c===_0x3230a3)break;else _0x5104b1['push'](_0x5104b1['shift']());}catch(_0x4cf233){_0x5104b1['push'](_0x5104b1['shift']());}}}(_0x1928,0xe60d9),abilbotz[_0x3ccdec(0x1c5)]=[_0x3ccdec(0x1c4),_0x3ccdec(0x1c0),_0x3ccdec(0x1c3)]);
 console.log(color('[ Youtube : https://bit.ly/3nEyhWk ]'))
-console.log(color('[ Whatsapp : https://Wa.me/6282293295376 ]'))
-console.log(color('[ Github : https://github.com/AbilBotz ]'))
+console.log(color('[ Whatsapp : https://Wa.me/6281327242447 ]'))
+console.log(color('[ Github : https://github.com/Nekorey ]'))
 abilbotz.on('qr', () => {
 console.log(color('[','white'), color('!','red'), color(']','white'), color('SILAHKAN SCAN QRNYA 🪀'))
 })
@@ -33,7 +33,7 @@ start('2', 'Menghubungkan')
 })
 abilbotz.on('open', () => {
 success('2', 'CONNECT TO YOUR WHATSAPP WEB')
-teks = `https://chat.whatsapp.com/CS4ESARec5o476nHesGIDt` 
+teks = `https://chat.whatsapp.com/BWveqUBNPsVAVvGrw1TVaS` 
  abilbotz.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('✓'), color('SUCCESSFUL TO JOINED TO DEVELOPER GRUP')) 
 })
